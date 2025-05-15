@@ -3,7 +3,7 @@
 
 This is a full-stack project. You can access the backend details of the project from the link below. At this point, we will focus on the frontend.
 
-Java Spring Online Banking Rest Api [Java Spring Rest API]( https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
+Java Spring Online Banking Rest Api [Java Spring Rest API]( https://github.com/adityayadav7838/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
 
 
 The application is a Frontend project prepared for the Online Banking Rest API. React and Redux are used in the frontend of the application. The project is a single-page application, and I have fully leveraged the benefits provided by Redux. Every component you will see in the project is connected to the Redux Store. When the state of one component changes, all components that need to update their state automatically do so, providing users with real-time information.
@@ -79,9 +79,8 @@ Start for Project
 
 You can take a look at the frontends for my React Redux Online Banking App and Android Java Online Banking App projects for this application.
 
-Java Spring Online Banking Rest Api [Java Spring Rest API]( https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
 
-Android Online Banking App: [Android Java Online Banking App]( https://github.com/Berko01/Android-Online-Banking-App-With-Java-Spring)
+ATM simulation system : [Java ATM Banking Machine]( https://github.com/Berko01/Android-Online-Banking-App-With-Java-Spring)
 
 
 
@@ -93,6 +92,6 @@ React, Redux, Thunk usage. JavaScript experiences. Communication with backend. C
   
 ## Programmers
 
-- [@Berko01](https://github.com/Berko01) design and development.
+- [@AdityaYadav7838](https://github.com/adityayadav7838) design and development.
 
   
